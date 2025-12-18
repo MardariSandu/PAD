@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zOeUpuiO6l6UrklkNSuEtybIRwzvwPLI4vl0AkirgrNy1C/bJ/nW3Y8fX1X9wNoF3tnyMI42z8UoNx2Vnx5Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guzun Dorin\\Desktop\\PAD\\Agent Grpc\\Sender\\Sender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guzun Dorin\\.nuget\\packages\\google.protobuf\\3.33.0\\google.protobuf.3.33.0.nupkg.sha512",
+    "C:\\Users\\Guzun Dorin\\.nuget\\packages\\grpc\\2.46.6\\grpc.2.46.6.nupkg.sha512",
+    "C:\\Users\\Guzun Dorin\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\Guzun Dorin\\.nuget\\packages\\grpc.core.api\\2.71.0\\grpc.core.api.2.71.0.nupkg.sha512",
+    "C:\\Users\\Guzun Dorin\\.nuget\\packages\\grpc.net.client\\2.71.0\\grpc.net.client.2.71.0.nupkg.sha512",
+    "C:\\Users\\Guzun Dorin\\.nuget\\packages\\grpc.net.common\\2.71.0\\grpc.net.common.2.71.0.nupkg.sha512",
+    "C:\\Users\\Guzun Dorin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Guzun Dorin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
