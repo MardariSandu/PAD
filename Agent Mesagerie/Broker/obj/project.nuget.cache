@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZLP5Uz8G2c60jaW3BL7v4abWtEFzx2/rEUSeXPgXRKZmcvJ8f1eW/W/t8TXB6u8HYRF7i/aJH26TeX3/wLax9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guzun Dorin\\Desktop\\PAD\\Agent Mesagerie\\Broker\\Broker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guzun Dorin\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
