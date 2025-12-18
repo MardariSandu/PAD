@@ -1,0 +1,87 @@
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\appsettings.json
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Broker.exe
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Broker.deps.json
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Broker.runtimeconfig.json
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Broker.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Broker.pdb
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Common.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Common.pdb
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\Broker.csproj.AssemblyReference.cache
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\Broker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\Broker.AssemblyInfoInputs.cache
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\Broker.AssemblyInfo.cs
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\Broker.csproj.CoreCompileInputs.cache
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\Broker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\staticwebassets\msbuild.Broker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\staticwebassets\msbuild.build.Broker.props
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Broker.props
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Broker.props
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\scopedcss\bundle\Broker.styles.css
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\Broker.csproj.CopyComplete
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\Broker.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\refint\Broker.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\Broker.pdb
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\Broker.genruntimeconfig.cache
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\obj\Debug\net8.0\ref\Broker.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.Core.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Broker\bin\Debug\net8.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\appsettings.Development.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\appsettings.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Broker.staticwebassets.endpoints.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Broker.exe
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Broker.deps.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Broker.runtimeconfig.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Broker.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Broker.pdb
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Google.Protobuf.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.Core.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Common.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\bin\Debug\net8.0\Common.pdb
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\Broker.csproj.AssemblyReference.cache
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\Broker.GeneratedMSBuildEditorConfig.editorconfig
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\Broker.AssemblyInfoInputs.cache
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\Broker.AssemblyInfo.cs
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\Broker.csproj.CoreCompileInputs.cache
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\Broker.MvcApplicationPartsAssemblyInfo.cache
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\scopedcss\bundle\Broker.styles.css
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\staticwebassets.build.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\staticwebassets.development.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\Broker.csproj.Up2Date
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\Broker.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\refint\Broker.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\Broker.pdb
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\Broker.genruntimeconfig.cache
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Broker\obj\Debug\net8.0\ref\Broker.dll

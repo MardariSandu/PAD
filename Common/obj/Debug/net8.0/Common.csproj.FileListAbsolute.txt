@@ -1,0 +1,24 @@
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\Guzun Dorin\Desktop\PAD\Agent Grpc\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Common\bin\Debug\net8.0\Common.deps.json
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Common\bin\Debug\net8.0\Common.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Common\bin\Debug\net8.0\Common.pdb
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Common\obj\Debug\net8.0\Common.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Common\obj\Debug\net8.0\refint\Common.dll
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Common\obj\Debug\net8.0\Common.pdb
+D:\utm\Anul 4\My YEAR\PAD\LL1\Agent Grpc\Agent Grpc\Common\obj\Debug\net8.0\ref\Common.dll
