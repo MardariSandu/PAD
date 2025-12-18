@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ocAGYNkVAbju+jqHwoOsOKeGYuqItsPAeb5+Nieo4WQBQVs/mhpBxvhL4i5t/hVV0DF1c4airdEwicNP8+MVyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guzun Dorin\\Desktop\\PAD\\Agent Mesagerie\\Subscriber\\Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guzun Dorin\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
